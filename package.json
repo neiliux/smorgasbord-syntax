@@ -1,0 +1,11 @@
+{
+  "name": "smorgasbord-syntax",
+  "theme": "syntax",
+  "version": "0.1.1",
+  "description": "Smorgasbord Syntax - A dark colored theme for Atom based on Seti-Syntax.",
+  "repository": "https://github.com/neiliux/smorgasbord-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.170.0"
+  }
+}
